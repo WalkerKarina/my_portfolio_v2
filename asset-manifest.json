@@ -1,27 +1,28 @@
 {
   "files": {
     "main.css": "/my_portfolio_v2/static/css/main.140abcdc.chunk.css",
-    "main.js": "/my_portfolio_v2/static/js/main.c2085e31.chunk.js",
-    "main.js.map": "/my_portfolio_v2/static/js/main.c2085e31.chunk.js.map",
+    "main.js": "/my_portfolio_v2/static/js/main.18e3749d.chunk.js",
+    "main.js.map": "/my_portfolio_v2/static/js/main.18e3749d.chunk.js.map",
     "runtime-main.js": "/my_portfolio_v2/static/js/runtime-main.3e362f2d.js",
     "runtime-main.js.map": "/my_portfolio_v2/static/js/runtime-main.3e362f2d.js.map",
     "static/css/2.3d76337d.chunk.css": "/my_portfolio_v2/static/css/2.3d76337d.chunk.css",
-    "static/js/2.968cb3d9.chunk.js": "/my_portfolio_v2/static/js/2.968cb3d9.chunk.js",
-    "static/js/2.968cb3d9.chunk.js.map": "/my_portfolio_v2/static/js/2.968cb3d9.chunk.js.map",
+    "static/js/2.dfa1669b.chunk.js": "/my_portfolio_v2/static/js/2.dfa1669b.chunk.js",
+    "static/js/2.dfa1669b.chunk.js.map": "/my_portfolio_v2/static/js/2.dfa1669b.chunk.js.map",
     "index.html": "/my_portfolio_v2/index.html",
-    "precache-manifest.8c7051fe8ae7ad7c36da7ed68e0aa1b4.js": "/my_portfolio_v2/precache-manifest.8c7051fe8ae7ad7c36da7ed68e0aa1b4.js",
+    "precache-manifest.f1c004b8e466958c32f055f0be316029.js": "/my_portfolio_v2/precache-manifest.f1c004b8e466958c32f055f0be316029.js",
     "service-worker.js": "/my_portfolio_v2/service-worker.js",
     "static/css/2.3d76337d.chunk.css.map": "/my_portfolio_v2/static/css/2.3d76337d.chunk.css.map",
     "static/css/main.140abcdc.chunk.css.map": "/my_portfolio_v2/static/css/main.140abcdc.chunk.css.map",
-    "static/js/2.968cb3d9.chunk.js.LICENSE.txt": "/my_portfolio_v2/static/js/2.968cb3d9.chunk.js.LICENSE.txt",
+    "static/js/2.dfa1669b.chunk.js.LICENSE.txt": "/my_portfolio_v2/static/js/2.dfa1669b.chunk.js.LICENSE.txt",
+    "static/media/breadPic.jpeg": "/my_portfolio_v2/static/media/breadPic.c29c427f.jpeg",
     "static/media/font-awesome.min.css": "/my_portfolio_v2/static/media/fontawesome-webfont.fee66e71.woff",
     "static/media/profile_image.png": "/my_portfolio_v2/static/media/profile_image.547bf513.png"
   },
   "entrypoints": [
     "static/js/runtime-main.3e362f2d.js",
     "static/css/2.3d76337d.chunk.css",
-    "static/js/2.968cb3d9.chunk.js",
+    "static/js/2.dfa1669b.chunk.js",
     "static/css/main.140abcdc.chunk.css",
-    "static/js/main.c2085e31.chunk.js"
+    "static/js/main.18e3749d.chunk.js"
   ]
 }
